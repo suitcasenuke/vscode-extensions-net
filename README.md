@@ -2,7 +2,7 @@
 
 ## Installed Extensions
 	
-	* C# for Visual Studio Code (powered by OmniSharp).
+	- C# for Visual Studio Code (powered by OmniSharp).
 
 #### To use this, launch vscode from the terminal/command line pointing at this repo for the extensions directory like so:
 
