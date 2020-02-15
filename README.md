@@ -10,4 +10,5 @@ To setup an alias on your mac for this add the following line to your .bash_prof
 	alias codenet="code -n --extensions-dir ~/Code/vscode/vscode-extensions-net/" -n
 	
 Installed Extensions
+	
 	* C# for Visual Studio Code (powered by OmniSharp).
